@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node-red -u .."
+  },
+  "dependencies": {
+    "node-red": "^3.0.2"
+  }
+}
