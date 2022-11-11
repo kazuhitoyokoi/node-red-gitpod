@@ -3,6 +3,6 @@
     "start": "node-red -u .."
   },
   "dependencies": {
-    "node-red": "^3.0.2"
+    "node-red": "2.2.3"
   }
 }
