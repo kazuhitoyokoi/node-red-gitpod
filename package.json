@@ -3,6 +3,11 @@
     "start": "node-red -u .."
   },
   "dependencies": {
-    "node-red": "2.2.3"
+    "node-red": "2.2.3",
+    "@ia-cloud/node-red-contrib-ia-cloud-common-nodes": "^0.0.5",
+    "@ia-cloud/node-red-contrib-ia-cloud-dashboard": "^0.1.4",
+    "@ia-cloud/node-red-contrib-ia-cloud-fds": "^0.1.22",
+    "@ia-cloud/node-red-contrib-ia-cloud-fds-raspberry-pi": "^0.1.4",
+    "node-red-dashboard": "^3.2.0"
   }
 }
